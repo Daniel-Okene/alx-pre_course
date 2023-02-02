@@ -1,1 +1,1 @@
-Repo for 0x01-git
+Repository for ALX 0x01_git task
